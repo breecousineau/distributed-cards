@@ -1,7 +1,8 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  font-family:
+  font-family: serif;
+  background-color: #ede3db;
 }
 
 *,
@@ -17,6 +18,10 @@ h1, h2 {
 
 img {
   width: 100%;
+}
+
+body {
+  margin: 0;
 }
 
 li {
