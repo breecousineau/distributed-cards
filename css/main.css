@@ -1,5 +1,7 @@
 html {
   box-sizing: border-box;
+  line-height: 1.5;
+  font-family:
 }
 
 *,
@@ -15,6 +17,14 @@ h1, h2 {
 
 img {
   width: 100%;
+}
+
+li {
+  padding: 1rem;
+}
+
+li a {
+  text-decoration: none;
 }
 
 li {
