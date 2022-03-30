@@ -35,10 +35,9 @@ li a {
   text-decoration: none;
   color: #fff;
   background-color: #623b0c;
-  margin: 1.5rem 0 0 0;
-  padding: .75em;
   border-radius: 10px;
   padding: .5em .75em .6em;
+  display: flex;
 }
 
 li {
