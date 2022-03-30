@@ -1,8 +1,8 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  font-family: "Georgia", serif;
-  background-color: #f5f2f0
+  font-family: Georgia, serif;
+  background-color: #f5f2f0;
 }
 
 *,
@@ -26,6 +26,8 @@ body {
 
 li a {
   text-decoration: none;
+  color: #fff;
+  padding: .5em .75em .6em;
 }
 
 li {
