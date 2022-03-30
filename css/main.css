@@ -11,7 +11,14 @@ html {
   box-sizing: inherit;
 }
 
-h1, h2 {
+h1 {
+  font-family: "Denk One", sans-serif;
+  color: #623b0c;
+  margin: 0;
+  padding: 1rem;
+}
+
+h2 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
 }
