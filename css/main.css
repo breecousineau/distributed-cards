@@ -14,21 +14,30 @@ html {
 h1 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
-  margin: 0;
-  padding: 1rem;
+  margin: 0 0 1.5rem;
 }
 
 h2 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
+  margin: 0 0 1.5rem;
 }
 
 img {
   width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+main {
+  padding: 1rem;
 }
 
 body {
   margin: 0;
+}
+
+a {
+  margin-top: 1.5rem;
 }
 
 li a {
@@ -54,5 +63,8 @@ ol {
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
   margin: 0;
-  padding: 1rem;
+}
+
+p {
+  margin: 0 0 auto;
 }
