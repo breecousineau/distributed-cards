@@ -63,6 +63,7 @@ ol {
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
   margin: 0;
+  padding-left: 0;
 }
 
 p {
